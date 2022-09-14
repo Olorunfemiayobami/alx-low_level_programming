@@ -2,7 +2,7 @@
 
 /**
  * print_last_digit - function that prints the last digit of a number
- * @n: the number in question 
+ * @n: the number in question
  *
  * Return: Vaue of the last digit
  */
